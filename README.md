@@ -1,0 +1,2 @@
+# DiscordBot-Welcome
+DiscordBotでサーバーにメンバーが参加したらwelcomeメッセージを送信する機能のコード
